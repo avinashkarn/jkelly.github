@@ -110,3 +110,4 @@ prose:
 
 # plugins    
 plugins: [jekyll-paginate]
+theme: jekyll-theme-slate
